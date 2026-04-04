@@ -1,0 +1,14 @@
+{
+  "notification_title": "欢迎使用",
+  "notification_content": "素材来源于网络",
+  "notification_type": "Alert",
+  "notification_target": "1",
+  "notification_time": "2025-01-01 00:00:00",
+  "notification_read": false,
+  
+  "update_content": "",
+  "update_version": "1.0.9",
+  "update_version_code": 10,
+  "update_force": true,
+  "update_url": "https://www.baidu.com"
+}
