@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: QY
+! Version: 1.0
+!
+
 wwwa.qyshare.com##div.container > div.promo-banner
 wwwa.qyshare.com##div.footer
 wwwa.qyshare.com##div.container > div.folder-card > div.folder-header > div.folder-icon
