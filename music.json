@@ -2,7 +2,7 @@
   "lines": [
     {
       "id": "kg",
-      "name": "小狗源",
+      "name": "酷狗音乐",
       "enabled": true,
       "searchApi": "kgSearchMusic",
       "detailApi": "kgMusicDetail",
@@ -17,7 +17,7 @@
     },
     {
       "id": "kw",
-      "name": "小窝源",
+      "name": "酷我音乐",
       "enabled": true,
       "searchApi": "fetchSearchMusic",
       "detailApi": "fetchMusicDetail",
@@ -32,7 +32,7 @@
     },
     {
       "id": "wy",
-      "name": "小云源",
+      "name": "网易云",
       "enabled": true,
       "searchApi": "wySearchMusic",
       "detailApi": "wyMusicDetail",
@@ -48,7 +48,7 @@
     },
     {
       "id": "tx",
-      "name": "小Q源",
+      "name": "QQ音乐",
       "enabled": true,
       "searchApi": "txSearchMusic",
       "detailApi": "txMusicDetail",
@@ -70,8 +70,8 @@
     },
     {
       "id": "mg",
-      "name": "小粉源",
-      "enabled": false,
+      "name": "咪咕音乐",
+      "enabled": true,
       "searchApi": "mgSearchMusic",
       "detailApi": "mgMusicDetail",
       "levels": [
